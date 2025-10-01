@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=..\Altium Library\chipfc_altium_libs-master\chipfc_altium_libs-master\chipfc_altium_libs.LibPkg
+[Project2]
+ProjectPath=C:\Users\Public\Documents\Altium\PCB_Project_3\PCB_Project_3.PrjPcb
